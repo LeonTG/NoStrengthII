@@ -1,0 +1,9 @@
+name: NoStrengthII
+main: com.leontg77.nostrengthii.Main
+version: 1.0
+author: LeonTG77
+description: A plugin for disabling tier 2 of strength.
+
+commands:
+    strengthii:
+        description: Enable or disable strength 2.
